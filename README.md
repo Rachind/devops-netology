@@ -17,4 +17,4 @@
 Игнорировать конкретные файлы или с включениями
 ## .terraformrc
 ## terraform.rc
-Игнорировать конкретные файлы
+Игнорировать конкретные файлыthis text will be added at the end of file
