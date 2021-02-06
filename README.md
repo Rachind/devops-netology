@@ -18,3 +18,7 @@
 ## .terraformrc
 ## terraform.rc
 Игнорировать конкретные файлы
+this text will be added at the end of file
+some new updates
+more updates
+one more update
